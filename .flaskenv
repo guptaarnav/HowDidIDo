@@ -1,1 +1,2 @@
-FLASK_APP=howdidido.py
+FLASK_ENV=development
+FLASK_APP=howdidido
